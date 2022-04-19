@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on full Stack
 - 📫 How to reach me emmamarks001@gmail.com
+- Product: https://glacial-castle-48220.herokuapp.com/
 
 <!---
 emmamarks/emmamarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
