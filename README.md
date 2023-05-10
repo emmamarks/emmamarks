@@ -3,7 +3,7 @@
 - 🌱 I’m currently building with MERN, PHP and python
 - 💞️ I’m looking to collaborate on full Stack
 - 📫 How to reach me emmamarks001@gmail.com
-- Product: https://decgds.onrender.com/
+- Products: https://decgds.onrender.com/
            https://betel.onrender.com/
 
 <!---
