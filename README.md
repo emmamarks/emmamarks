@@ -3,8 +3,7 @@
 - 🌱 I’m currently building with MERN, PHP and python
 - 💞️ I’m looking to collaborate on full Stack
 - 📫 How to reach me emmamarks001@gmail.com
-- Products: https://decgds.onrender.com/
-           https://betel.onrender.com/
+- Products: https://betel.onrender.com/
 
 <!---
 emmamarks/emmamarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
