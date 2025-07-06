@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently building with MERN, Typescript & springboot
 - 💞️ I’m looking to collaborate on full Stack
-- 📫 mmamarks001@gmail.com
+- 📫 emmamarks001@gmail.com
 - Product: https://expertsfe.onrender.com
 
 <!---
