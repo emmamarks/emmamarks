@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @emmamarks
 - 👀 I’m interested in web dev
-- 🌱 I’m currently building with MERN, PHP and python
+- 🌱 I’m currently building with MERN, Typescript & springboot
 - 💞️ I’m looking to collaborate on full Stack
-- 📫 How to reach me emmamarks001@gmail.com
-- Products: https://betel.onrender.com/
+- 📫 mmamarks001@gmail.com
+- Product: https://expertsfe.onrender.com
 
 <!---
 emmamarks/emmamarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
